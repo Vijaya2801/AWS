@@ -4,7 +4,7 @@ A multi-page static frontend designed as a friendly Git practice project for int
 
 ## Pages
 
-- `index.html` — landing page
+- `index.html` — Landing student page
 - `programs.html` — open internship roles with category filters
 - `projects.html` — project showcase
 - `resources.html` — learning library
